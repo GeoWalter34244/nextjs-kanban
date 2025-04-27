@@ -1,4 +1,16 @@
-I made the project because i was having troubble finding what i was looking for was made from start to finish in about 3 hours 
+I made the project because i was having troubble finding exactly what i was looking for was made from start to finish in about 3 hours vibe coding
+
+project is completely local does not connect to database on the internet only a local database using sqlite
+
+
+
+project uses
+
+```bash
+NextJS
+sqlite
+shadcn/ui
+```
 
 
 

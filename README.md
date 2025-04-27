@@ -10,7 +10,9 @@ project is completely local does not connect to database on the internet only a 
 ```bash
 NextJS
 sqlite
+tailwindcss
 shadcn/ui
+@hello-pangea/dnd
 ```
 
 

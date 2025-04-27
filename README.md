@@ -1,4 +1,4 @@
-# NextJS Local Kanban
+# Simple NextJS Local Kanban
 
 I made the project because i was having troubble finding exactly what i was looking for was made from start to finish in about 3 hours
 

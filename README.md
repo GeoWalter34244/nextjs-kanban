@@ -3,8 +3,7 @@ I made the project because i was having troubble finding exactly what i was look
 project is completely local does not connect to database on the internet only a local database using sqlite
 
 
-
-project uses
+## Project Core Packages
 
 ```bash
 NextJS

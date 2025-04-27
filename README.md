@@ -16,14 +16,19 @@ shadcn/ui
 
 
 ## Getting Started
+First install the project dependencies
 
-First you need to initialize the database with 
+```bash
+npm install
+```
+
+Second you will need to initialize the sqlite database 
 
 ```bash
 npm run init-db
 ```
 
-Second run the development server:
+Third run the development server:
 
 ```bash
 npm run dev
